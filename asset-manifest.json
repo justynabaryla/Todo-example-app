@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/justynabaryla/Todo-example-app/static/css/main.0ac7441f.css",
+    "main.js": "/justynabaryla/Todo-example-app/static/js/main.3f30df7f.js",
+    "index.html": "/justynabaryla/Todo-example-app/index.html",
+    "main.0ac7441f.css.map": "/justynabaryla/Todo-example-app/static/css/main.0ac7441f.css.map",
+    "main.3f30df7f.js.map": "/justynabaryla/Todo-example-app/static/js/main.3f30df7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ac7441f.css",
+    "static/js/main.3f30df7f.js"
+  ]
+}
